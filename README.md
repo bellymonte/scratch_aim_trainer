@@ -16,3 +16,4 @@ The player attempts to click the diamond targets as quickly as possible within a
 - Add customizeability to difficulty and time limit
 - Add score record and high-score system
 - Add sound effects
+- Improve timer system
